@@ -1,0 +1,119 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Programming with RDDs}{3}{Programming with RDDs}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{RDD Basics}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{1}{3}{Spark Programming Model}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{2}{4}{RDD Creation}}
+\headcommand {\slideentry {1}{1}{2}{4/4}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{1}{3}{5/5}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{1}{4}{6/6}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{3}{7}{Spark Context}}
+\headcommand {\slideentry {1}{1}{5}{7/7}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{4}{8}{Spark Driver}}
+\headcommand {\slideentry {1}{1}{6}{8/8}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {1}{1}{7}{9/9}{RDD Basics}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{10}{RDD Operations}}\headcommand {\beamer@subsectionpages {3}{9}}
+\headcommand {\slideentry {1}{2}{1}{10/10}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{2}{2}{11/11}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {1}{2}{3}{12/12}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{13}{Transformations}}
+\headcommand {\slideentry {1}{2}{4}{13/13}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {1}{2}{5}{14/14}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{15}{Actions}}
+\headcommand {\slideentry {1}{2}{6}{15/15}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {1}{2}{7}{16/16}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {1}{2}{8}{17/17}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {1}{2}{9}{18/18}{RDD Operations}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{19}{Functional programming features}}\headcommand {\beamer@subsectionpages {10}{18}}
+\headcommand {\slideentry {1}{3}{1}{19/19}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{1}{20}{Lazy Evaluation}}
+\headcommand {\slideentry {1}{3}{2}{20/20}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {1}{3}{3}{21/21}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {1}{3}{4}{22/22}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {1}{3}{5}{23/23}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{2}{24}{Chaining Transformations}}
+\headcommand {\slideentry {1}{3}{6}{24/24}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {1}{3}{7}{25/25}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{3}{26}{Pipelining}}
+\headcommand {\slideentry {1}{3}{8}{26/26}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {1}{3}{9}{27/27}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {1}{3}{10}{28/28}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{4}{29}{Passing Functions to Spark}}
+\headcommand {\slideentry {1}{3}{11}{29/29}{Functional programming features}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{30}{Persistence (Caching)}}\headcommand {\beamer@subsectionpages {19}{29}}
+\headcommand {\slideentry {1}{4}{1}{30/30}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {1}{4}{2}{31/31}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {1}{4}{3}{32/32}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {1}{4}{4}{33/33}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {1}{4}{5}{34/34}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {1}{4}{6}{35/35}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {1}{4}{7}{36/36}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {1}{4}{8}{37/37}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {1}{4}{9}{38/38}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {1}{4}{10}{39/39}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {1}{4}{11}{40/40}{Persistence (Caching)}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{41}{Broadcast variables}}\headcommand {\beamer@subsectionpages {30}{40}}
+\headcommand {\slideentry {1}{5}{1}{41/41}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {1}{5}{2}{42/42}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {1}{5}{3}{43/43}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {1}{5}{4}{44/44}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {1}{5}{5}{45/45}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {1}{5}{6}{46/46}{Broadcast variables}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\beamer@subsectionentry {0}{1}{6}{47}{Questions about spark engine}}\headcommand {\beamer@subsectionpages {41}{46}}
+\headcommand {\slideentry {1}{6}{1}{47/47}{Questions about spark engine}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\beamer@partpages {1}{47}}
+\headcommand {\beamer@subsectionpages {47}{47}}
+\headcommand {\beamer@sectionpages {3}{47}}
+\headcommand {\beamer@documentpages {47}}
+\headcommand {\def \inserttotalframenumber {47}}

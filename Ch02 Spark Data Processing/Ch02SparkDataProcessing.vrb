@@ -1,0 +1,14 @@
+\frametitle{Broadcast variables (3/6)}
+	\begin{itemize}[<+->]
+		\item Another approach is, if one of the RDDs is small in size, we can choose to send it to each node only once, thereby reducing network traffic
+		\item \textbf{Note that:} Broadcast variables are read-only, broadcast.value is an immutable object
+		along with each task. Consider the below example
+		\begin{lstlisting}[style=myScalastyle, caption=Broadcast variables Enhanced Example]
+
+		val names = sc.textFile("/names").map(line => (line.split(",")(3),line))
+		val addresses = sc.textFile("/address").map(line => (line.split(",")(0),line))
+		val addressedMap = addresses.collect().toMap
+		val broadcast = sc.broadcast(addressedMap)
+		val joined =  names.map(v => v._2,(broadcast.value(v._1)))
+		\end{lstlisting}
+	\end{itemize}

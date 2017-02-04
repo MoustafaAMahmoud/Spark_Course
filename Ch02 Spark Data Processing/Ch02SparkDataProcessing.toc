@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Programming with RDDs}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{RDD Basics}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{Spark Programming Model}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{2}{RDD Creation}{4}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{3}{Spark Context}{7}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{4}{Spark Driver}{8}{0}{1}
+\beamer@subsectionintoc {1}{2}{RDD Operations}{10}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{Transformations}{13}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{Actions}{15}{0}{1}
+\beamer@subsectionintoc {1}{3}{Functional programming features}{19}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{1}{Lazy Evaluation}{20}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{2}{Chaining Transformations}{24}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{3}{Pipelining}{26}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{4}{Passing Functions to Spark}{29}{0}{1}
+\beamer@subsectionintoc {1}{4}{Persistence (Caching)}{30}{0}{1}
+\beamer@subsectionintoc {1}{5}{Broadcast variables}{41}{0}{1}
+\beamer@subsectionintoc {1}{6}{Questions about spark engine}{47}{0}{1}

@@ -1,0 +1,14 @@
+\frametitle{Example Spark on Hadoop}
+	\includegraphics[width=3cm]{Graphics/spark.jpg}
+
+%	\begin{minted}{python}
+
+\begin{lstlisting}[language=Python, caption=Python Spark Average Example]
+	data = sc.textFile(...).split("\t")
+	data.map(lambda x: (x[0], [x.[1], 1])) \
+	.reduceByKey(lambda x, y: [x[0] + y[0], x[1] + y[1]]) \
+	.map(lambda x: [x[0], x[1][0] / x[1][1]]) \
+	.collect()
+\end{lstlisting}
+%\end{minted}
+

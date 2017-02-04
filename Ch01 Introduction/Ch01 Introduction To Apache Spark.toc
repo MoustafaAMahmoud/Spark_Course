@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{What Is Apache Spark?}{5}{0}{2}
+\beamer@sectionintoc {3}{Example Spark vs Mapreduce on Hadoop}{8}{0}{3}
+\beamer@sectionintoc {4}{Downloading Spark and Getting Started.}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Installing Apache Spark and Scala}{10}{0}{4}
